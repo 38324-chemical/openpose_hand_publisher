@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>openpose_hand_publisher</name>
+  <version>0.1.0</version>
+  <description>Publish OpenPose hand keypoints to ROS2 topic</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+</package>
